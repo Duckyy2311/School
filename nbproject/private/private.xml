@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+<<<<<<< HEAD
+            <file>file:/D:/Git%20SMC/g3/src/controllers/FunctionController.java</file>
+            <file>file:/D:/Git%20SMC/g3/src/controllers/MemberEvaluationController.java</file>
+            <file>file:/D:/Git%20SMC/g3/src/dao/DaoMemberEvaluation.java</file>
+=======
+            <file>file:/D:/ISP/Stu/g3/src/controllers/TeamEvaluationController.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/view_inputs/TrainnerMenu.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/controllers/TrackingController.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/dao/DaoIter.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/model/Milestone.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/controllers/LocEvaluationController.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/controllers/UserController.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/dao/DaoMilestone.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/dao/DaoIterEvalution.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/controllers/FunctionController.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/controllers/SubjectSettingController.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/model/Class.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/connection/ConnectionUtils.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/view_inputs/ManaMenu.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/dao/DaoClass.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/connection/MySQLConnUtils.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/dao/DaoIteration.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/dao/DaoMemberEvaluation.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/dao/DaoTeamEvaluation.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/controllers/MilestoneController.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/controllers/IterationEvalutionController.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/controllers/ManagerUser.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/dao/DaoCriteria.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/model/TeamEvaluation.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/dao/DaoFeature.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/model/IterationEvalution.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/model/MemberEvaluation.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/dao/DaoClassUser.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/dao/DaoFunction.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/dao/DaoUser.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/view_inputs/AdminMenu.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/controllers/IterationController.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/controllers/IssueController.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/model/User.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/view_inputs/Main.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/dao/DaoSubject.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/controllers/ClassUserController.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/view_inputs/StudentMenu.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/dao/DaoSubjectSetting.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/controllers/ClassController.java</file>
+            <file>file:/D:/ISP/Stu/g3/src/model/Function.java</file>
+>>>>>>> ec3aa5745ec6f591eb1ffc255ea2f26443008c09
+        </group>
+    </open-files>
+</project-private>
